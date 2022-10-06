@@ -1,2 +1,2 @@
 # Applied-Machine-Learning-in-Python
-This repository contain notebooks of simple Machine Learning models 
+This repository contains notebooks of simple Machine Learning models 
